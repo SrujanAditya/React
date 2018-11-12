@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ui Header component renders correctly 1`] = `
+<div
+  className="mainHeader"
+>
+  <div
+    className="headContainer"
+  >
+    <label
+      className="netflixText"
+    >
+      netflixroulette
+    </label>
+    <label
+      className="label"
+    >
+      FIND YOUR MOVIE
+    </label>
+    <input
+      className="searchBox"
+      onChange={[Function]}
+      onKeyPress={[Function]}
+      placeholder=" Search"
+      type="text"
+    />
+    <div
+      style={
+        Object {
+          "display": "inline-block",
+          "margin": "5px 0px",
+          "width": "100%",
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "display": "inline",
+          }
+        }
+      >
+        <label
+          className="label searchByText"
+        >
+          SEARCH BY 
+        </label>
+        <button
+          className="searchByButtons"
+          id="titleBtn"
+          onClick={[Function]}
+          style={
+            Object {
+              "backgroundColor": "red",
+            }
+          }
+        >
+          TITLE
+        </button>
+        <button
+          className="searchByButtons"
+          id="genreBtn"
+          onClick={[Function]}
+          style={
+            Object {
+              "backgroundColor": "grey",
+            }
+          }
+        >
+          GENRE
+        </button>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "inline",
+          }
+        }
+      >
+        <button
+          className="searchButton"
+          onClick={[Function]}
+        >
+          SEARCH
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ui SubHeader component renders correctly 1`] = `
+<div
+  className="subheader"
+>
+  <div
+    className="contentAlign"
+  >
+     Movies Found
+    <div
+      style={
+        Object {
+          "display": "inline",
+          "float": "right",
+        }
+      }
+    >
+      <label
+        className="innerText"
+      >
+        Sort by:
+      </label>
+      <button
+        className="innerText"
+        id="release_date"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "grey",
+          }
+        }
+      >
+        release date
+      </button>
+      <button
+        className="innerText"
+        id="rating"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "grey",
+          }
+        }
+      >
+        rating
+      </button>
+    </div>
+  </div>
+</div>
+`;

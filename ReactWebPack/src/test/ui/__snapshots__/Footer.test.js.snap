@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ui Footer component renders correctly 1`] = `
+<footer
+  className="foot"
+>
+  <label
+    className="netflixText"
+  >
+    netflixroulette
+  </label>
+</footer>
+`;

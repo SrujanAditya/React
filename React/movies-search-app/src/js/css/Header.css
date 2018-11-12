@@ -1,0 +1,58 @@
+.headContainer {
+    max-width: 90%;
+    display: block;
+    margin: auto
+}
+.searchBox {
+    background: black;
+    color: white;
+    width: 100%;
+    line-height: 200%
+}
+.netflixText {
+    display: block;
+    color:red;
+    font-size: 12px;
+    padding: 10px;
+    font-weight: bold 
+}
+.label {
+    color:white;
+    font-weight: bolder;
+    line-height: 300%
+}
+.searchByText {
+    font-size: 11px;
+    font-weight: bolder
+}
+.searchByButtons {
+    align-content: center;
+    padding:3px;
+    font-size: 11px;
+    font-weight: 900;
+    color: white;
+    width: 100px;
+    margin: 5px;
+    border: none 
+}
+.searchByButtons:hover {
+    box-shadow: 3px 3px 3px 3px rgba(255,255,255,0.3)
+}
+.searchButton {
+    align-content: center;
+    padding:5px;
+    font-size: 12px;
+    font-weight: 900;
+    color: white;
+    width: 180px;
+    background: red;
+    border: 1px none;
+    float: right;
+}
+.searchButton:hover {
+    box-shadow: 3px 3px 3px 3px rgba(255,255,255,0.3)
+}
+.mainHeader{
+    display: block;
+    background: url("../images/background_netflix_2018_by_mrfantasmabr-dbz3o4b.png")
+}

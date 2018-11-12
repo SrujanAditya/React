@@ -1,0 +1,28 @@
+.movieBlock {
+    display: inline-block;
+    padding:20px;
+    width:300px;
+    margin:auto
+}
+.movieBlock:hover {
+    box-shadow: 0 16px 32px 0 rgba(0,0,0,0.3)
+}
+.labelContainer {
+    display:inline-block;
+    width:250px
+}
+.movieTitle {
+    font-weight:700;
+    display:block
+}
+.movieGenres {
+    font-weight:200;
+    font-size:12px;
+    display:block
+}
+.releaseYear {
+    border-style:double;
+    float:right;
+    border-radius:5px;
+    padding:2px
+}

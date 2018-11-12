@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ui MovieSubHeader component renders correctly 1`] = `
+<div
+  className="subheader"
+>
+  <div
+    className="contentAlign"
+  >
+    Films by 
+    Comedy
+     genre
+  </div>
+</div>
+`;
